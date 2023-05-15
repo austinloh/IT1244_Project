@@ -4,7 +4,7 @@
 This projects aims to find the best machine learning model to predict fraudulent energy use in a supervised classification problem.
 
 Overall Workflow
-![Workflow for process](https://github.com/austinloh/NUS/blob/main/Workflow.png)
+![Workflow for process](./Workflow.png)
 
 ## Getting Started
 
@@ -18,10 +18,10 @@ Below are the versions of libraries that were used. Different versions may still
 * tensorflow      2.9.2
 
 ### Setup
-Ensure [clients dataset](https://github.com/austinloh/NUS/blob/main/client.csv) (client.csv) and [invoices dataset](https://github.com/austinloh/NUS/blob/main/invoice.csv) (invoice.csv) are located in the same directory as the [main code file](https://github.com/austinloh/NUS/blob/main/IT1244_Project.ipynb) (IT1244_Project.ipynb)
+Ensure [clients dataset](./client.csv) (client.csv) and [invoices dataset](./invoice.csv) (invoice.csv) are located in the same directory as the [main code file](./IT1244_Project.ipynb) (IT1244_Project.ipynb)
 
 ### Running the Project
-* Open the [main code file](https://github.com/austinloh/NUS/blob/main/IT1244_Project.ipynb) (IT1244_Project.ipynb) either in jupyter notebook (to run locally) or upload to google colab (to run on cloud). 
+* Open the [main code file](./IT1244_Project.ipynb) (IT1244_Project.ipynb) either in jupyter notebook (to run locally) or upload to google colab (to run on cloud). 
 * Running locally is recommended as it is much faster
 * Run each cell block in the notebook sequentially 
 
